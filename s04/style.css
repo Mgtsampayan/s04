@@ -1,0 +1,23 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+body ul {
+    background-color: greenyellow;
+    list-style-type: num;
+}
+
+body dt {
+    font-family: Poppins, sans-serif;
+}
+
+img {
+    border-radius: 50%;
+    width: 5%;
+}
+div li {
+    font-style: Poppins, sans-serif ;
+    list-style-type: NONE;
+    margin: .3%;
+    margin-left: 3%;
+}
